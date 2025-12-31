@@ -1,6 +1,6 @@
-# Dating App Person Matching Service
+# Tattle Person Matching Service
 
-A service that matches people based on their personality descriptions using vector embeddings. Perfect for dating apps to find compatible matches based on vibes, interests, and personality traits.
+A service that matches people based on their personality descriptions using vector embeddings. Perfect to find compatible matches based on vibes, interests, and personality traits.
 
 ## Features
 
